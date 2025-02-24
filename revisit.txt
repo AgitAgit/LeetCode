@@ -1,1 +1,3 @@
-543 (binary trees) need to improve time complexity
+543 (binary trees) need to improve time complexity. 
+Let go of recursion aesthetics. 
+Try loops and Helper methods/variables To improve speed.

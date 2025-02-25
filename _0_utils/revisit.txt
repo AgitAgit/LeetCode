@@ -1,3 +1,8 @@
+could I use automation to make a script that saves the solution with it's stats from leetcode and than
+submit?
+But it would require for the script to access the current window I'm using, wouldn't it?
+There are sure to be techniques for that, even if they weren't taught at the course.
+
 543 (binary trees) need to improve time complexity. 
 Let go of recursion aesthetics. 
 Try loops and Helper methods/variables To improve speed.

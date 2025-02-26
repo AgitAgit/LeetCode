@@ -18,11 +18,12 @@ class Solution:
             if nums[mid] > val:
                 return mid
             return self.binary_search_or_larger(val + 1, nums) 
-
+    
 obj = Solution()
 
 arr = [9,7,6,4,3]
+arr2 = [7, 7, 7, 7, 3]
 target = 5
 print("target: ",target)
-print("list: ", arr)
-print("index: ", obj.binary_search_or_smaller(target, arr))
+print("list: ", arr2)
+print("index: ", obj.binary_search_or_larger(target, arr2))
